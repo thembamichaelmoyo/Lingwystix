@@ -1,2 +1,3 @@
 # lingwystix
-A real-time, multi-platform, multi-lingual, voice translator, featuring machine learning for realistic voice mimicry.
+
+A real-time, multi-platform, multi-lingual, language translator and voice synthesizer, featuring machine learning for realistic and natural voice output.
